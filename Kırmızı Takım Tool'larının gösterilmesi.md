@@ -1,0 +1,1 @@
+AD yapısının patlatılması
