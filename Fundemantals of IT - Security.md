@@ -15,7 +15,6 @@ Bilgisayar parçalarının işlevlerinden ve bunların siber güvenlik ile bağl
 - bellek ne gibi saldırı tiplerine uğrayabilir
 - disk ne tür saldırı tiplerine uğrayabilir
 - işlemci ne tür saldırı tiplerine uğrayabilir.
-- 
 
 
 # Bağlantı tipleri ve onların kullanım şekilleri
@@ -34,8 +33,9 @@ Bu genel olarak her bilgi teknolojileri ile ilgilenen insanın yapabilmesi gerek
 - network bağlantı problemleri
 - kompleks bir problemin izole edilerek ana kaynağı saptanması
 - problemin tekrar oluşturulması ve istikrarlılığının kontrol edilmesi
-- 
 
 # OS tipleri ve temel kullanımları
-
+Var olan OS tiplerin kısa bir şekilde anlatılması ve bunlara uygun şekiş
+- genel windows, macos ve linux işletim sistemlerinin özellikleri
+- 
 # 
